@@ -104,17 +104,19 @@ Teambition 工作流规范（暂行）
 
   `DOC`：文档描述
 
+  `RELEASE`: 发布相关的改动
+
 2. 详细描述
 
   分段描述这个功能的具体内容，BUG 修复的一些具体原因或者注意事项。
 
-3. 机器数据
+3. 机器数据（目前因为还没有自动化工具，所以这部分可以暂时不写）
 
   `FEATURE` 功能短名，一个功能在开发开始的时候，就应该有一个固定不变的短名来标记这是什么。如果修复一个未上线的
 
   `TASK` 与分支对应的 Teambition 任务的 ID
 
-  `R` 审核人的邮箱或者名字，比如：huaqiao, huaqiao@teambition.com
+  `REVIEWER` 审核人的邮箱或者名字，比如：huaqiao, huaqiao@teambition.com
 
 ```
 [DOC] 提交模板的标题
@@ -123,9 +125,9 @@ Teambition 工作流规范（暂行）
 
 这是是描述的第二段信息，用来说明这次提交的一些东西。
 
-FEATURE 模板
-TASK 56cd5df09c8a6ba82e2bac0a
-R huaqiao@teambition.com
+FEATURE = 模板
+TASK = 56cd5df09c8a6ba82e2bac0a
+REVIEWER = huaqiao@teambition.com
 ```
 
 
