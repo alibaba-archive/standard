@@ -2,7 +2,7 @@
 
 毫不夸张地说，这份指南会使你变得更优秀，从更优雅的代码上体现
 
-自从新的 [TB-UI](https://github.com/teambition/TB-UI) 站在 [Stylus](http://stylus-lang.com), [SMACSS](https://smacss.com/), [OOCSS](http://oocss.org/), [Bootstrap](getbootstrap.com) 的肩膀上后
+自从新的 [TB-UI](https://github.com/teambition/TB-UI) 站在 [Stylus](http://stylus-lang.com), [SMACSS](https://smacss.com/), [OOCSS](http://oocss.org/), [Bootstrap](http://getbootstrap.com) 的肩膀上后
 
 必须有一份风格指南才能驾驭好它们，从而[站上去看得更远](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants)
 
