@@ -5,6 +5,7 @@ Teambition Standards, Principles and Guidelines
 - [Git-flow Specification](./git-flow.md)
 
 ### Style Guides
+- [Copywriting Style Guide](./copywriting-style-guide.md)
 - [CSS Style Guide](./css-style-guide.md)
 
 ## What a pity
