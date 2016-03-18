@@ -10,12 +10,14 @@
 **Teambition**
 
 公司名称是 Teambition，不是 Teambition Ltd.
+
 Teambition 的 T 要大写，前后如果有中文要就前后都有空格。
+
 如作为 URL 的一部分，应该使用全小写的「leancloud」。
 
 **Make Work Enjoyable**
 
-Teambition 的 slogan 没有 make your work enjoyable, 而是 Make Work Enjoyable
+Teambition 的 slogan 没有 make your work enjoyable，而是 Make Work Enjoyable
 
 ## 通用文案
 
@@ -62,7 +64,7 @@ Teambition 的 slogan 没有 make your work enjoyable, 而是 Make Work Enjoyabl
 
 #### 文案中的常见错误
 - 账号“登录”，而非账号“登陆”。
-- etc 前后的标点常错。正确的示例 Note, repeat, subtask, etc.
+- etc 前后的标点常错。正确的示例：Note, repeat, subtask, etc.
 - subtask 而非 sub task。（也有拼作 sub-task，但是我们统一用 subtask）, duedate 而非 due date。
 - 登录、登出统一使用 Sign In/Sign Out，避免使用 Log In/Out。
 
@@ -75,10 +77,10 @@ Teambition 的 slogan 没有 make your work enjoyable, 而是 Make Work Enjoyabl
 
 目前多语言操作平台：[OneSky](https://www.oneskyapp.com/)
 
-包括项目：Regular Web App、iOS、Android 等
+包括项目：Regular Web App、iOS、Android 等。
 
 在 OneSky 中翻译应注意一下问题：
-- 中文引号不能直接出现，需要在系统中改写为转义字符 [常用转义字符对照表](http://tool.oschina.net/commons?type=2)
+- 中文引号不能直接出现，需要在系统中改写为转义字符 [常用转义字符对照表](http://tool.oschina.net/commons?type=2)。
 
 ## References
 
