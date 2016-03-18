@@ -7,12 +7,14 @@
 
 ## 公司名称和 slogan 的使用
 
-** Teambition **
+**Teambition**
+
 公司名称是 Teambition，不是 Teambition Ltd.
 Teambition 的 T 要大写，前后如果有中文要就前后都有空格。
 如作为 URL 的一部分，应该使用全小写的「leancloud」。
 
-** Make Work Enjoyable **
+**Make Work Enjoyable**
+
 Teambition 的 slogan 没有 make your work enjoyable, 而是 Make Work Enjoyable
 
 ## 通用文案
@@ -48,15 +50,15 @@ Teambition 的 slogan 没有 make your work enjoyable, 而是 Make Work Enjoyabl
 
 - 若正文中部分引用第三方内容，应使用恰当的引用格式并给出出处。如：
 
-  > Collaborate and get stuff done with Teambition.  - Teambition
+> Collaborate and get stuff done with Teambition.  - Teambition
 
 - 若为全篇转载，请在全文开头显著位置注明出处并链接至原文，如：
 
- > 本文转载自 [Teambition](http://www.teambition.com)
+> 本文转载自 [Teambition](http://www.teambition.com)
 
 - 若格式不允许超链接，请以文本方式直接给出原文链接。如果原文链接太长影响美观，可以使用短链接服务。如：
 
- > 本文转载自 Teambition：http://www.teambition.com 
+> 本文转载自 Teambition：http://www.teambition.com
 
 #### 文案中的常见错误
 - 账号“登录”，而非账号“登陆”。
@@ -72,7 +74,9 @@ Teambition 的 slogan 没有 make your work enjoyable, 而是 Make Work Enjoyabl
 ## 实际开发
 
 目前多语言操作平台：[OneSky](https://www.oneskyapp.com/)
+
 包括项目：Regular Web App、iOS、Android 等
+
 在 OneSky 中翻译应注意一下问题：
 - 中文引号不能直接出现，需要在系统中改写为转义字符 [常用转义字符对照表](http://tool.oschina.net/commons?type=2)
 
