@@ -47,7 +47,7 @@ Teambition 的 slogan 没有 make your work enjoyable，而是 Make Work Enjoyab
 - 只有中文或中英文混排中，一律使用中文/全角标点。
 - 中英文混排中如果出现整句英文，则在这句英文中使用英文/半角标点。
 - 中文标点与其他字符间一律不加空格。
-- 中文文案中使用中文引号「」和『』，其中「」为外层引号。Mac 上如「百度输入法」等都可以方便地输入中文引号。
+- 中文文案中使用中文引号「」和『』，其中「」为外层引号。Mac 上如「简体拼音」等都可以方便地输入中文引号。
 - 英文文案中不能出现尖引号「、」，应使用半角标点。
 
 #### 对第三方内容的引用
@@ -88,7 +88,4 @@ Teambition 的 slogan 没有 make your work enjoyable，而是 Make Work Enjoyab
 
 - [LeanCloud 文案风格指南](https://open.leancloud.cn/copywriting-style-guide.html)
 - [Chinese Copywriting Guidelines / 中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
-
-### 写在最后
-
-此文档实际并不完善，欢迎小伙伴们批评指正。
+- [Mapbox Writing copy](https://www.mapbox.com/base/copy)

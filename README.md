@@ -8,6 +8,8 @@ Teambition Standards, Principles and Guidelines
 - [Copywriting Style Guide](./copywriting-style-guide.md)
 - [CSS Style Guide](./css-style-guide.md)
 
+Want to work at Teambition? [Check this](https://github.com/teambition/Survival-Guide) to help you survive at Teambition.
+
 ## What a pity
 Our core purpose and mission of the standards above is quite simple, helps members of Teambition F2E Group to build consistent good habits. There is a bad news that the current documentations are only available in Chinese, I wish we could translate into Enligsh or write directly in English.
 
