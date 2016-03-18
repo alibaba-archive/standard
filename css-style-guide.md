@@ -76,12 +76,12 @@ Stylus 无 Braces 语法下，不再是 [Free-form language](https://en.wikipedi
 
 多条声明应该被[分组](https://smacss.com/book/formatting)和[排序](http://webdesign.tutsplus.com/articles/outside-in-ordering-css-properties-by-importance--cms-21685?utm_source=tuicool&utm_medium=referral)，根据声明作用来分：
 
-- Display: display, visibility, opacity, float...
-- Position: position, top, left...
-- Box Model: width, pading, border, margin...
-- Background: background-color, background-image...
-- Text: line-height, font-* properties...
-- Other: filter, animation, transition...
+- **Display:** display, visibility, opacity, float...
+- **Position:** position, top, left...
+- **Box Model:** width, pading, border, margin...
+- **Background:** background-color, background-image...
+- **Text:** line-height, font-* properties...
+- **Other:** filter, animation, transition...
 
 激动人心的消息，[TB-Linter](https://github.com/teambition/TB-Linter) 将会引入 [CSScomb](https://github.com/csscomb/csscomb.js) 来代替手动排序
 
@@ -89,14 +89,14 @@ Stylus 无 Braces 语法下，不再是 [Free-form language](https://en.wikipedi
 
 根据 [SMACSS](http://smacss.com/) 与 [Teambition](https://teambition.com) 产品的实际情况，样式文件被以下几层：
 
-- Variables 层：全局变量
-- Mixins & Functions & Utilities 层：各种全局工具与函数
-- Bases 层：重置样式，基础样式
-- Effects 层：特效 // 尽可能的少
-- Generics 层：不含 JavaScript 交互的基础组建
-- UIs 层：包含 JavaScript 交互的基础组建
-- Themes 层：主题样式
-- Components：包含逻辑的组建，可继承自基础组建
+- **Variables:** 全局变量
+- **Mixins & Functions & Utilities:** 各种全局工具与函数
+- **Bases:** 重置样式，基础样式
+- **Effects:** 特效 // 尽可能的少
+- **Generics:** 不含 JavaScript 交互的基础组建
+- **UIs:** 包含 JavaScript 交互的基础组建
+- **Themes:** 主题样式
+- **Components:** 包含逻辑的组建，可继承自基础组建
 
 Tip: 不被 DOM 调用或者不生成规则的文件用下划线作为前缀
 
@@ -147,7 +147,7 @@ Min 从小到大，Max 从大到小，Min 里面可以嵌套 Max
 
 ## Miscellaneous
 
-- 在样式兼容上，应该多参考 [Can I use](http://caniuse.com/)，特别是 IE
+- 在样式兼容上，应该多参考 [Can I use](http://caniuse.com/)，尤其是 IE 这一栏
 - 欢迎 PR 与关于指南的讨论
 
 ## References
