@@ -15,7 +15,7 @@
 
 Teambition 的 T 要大写，前后如果有中文要就前后都有空格。
 
-如作为 URL 的一部分，应该使用全小写的「leancloud」。
+如作为 URL 的一部分，应该使用全小写的「teambition」。
 
 **Make Work Enjoyable**
 
