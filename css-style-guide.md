@@ -87,7 +87,7 @@ Stylus 无 Braces 语法下，不再是 [Free-form language](https://en.wikipedi
 
 ## Files Organization
 
-根据 [SMACSS](http://smacss.com/) 与 [Teambition](https://teambition.com) 产品的实际情况，样式文件被以下几层：
+根据 [SMACSS](http://smacss.com/) 与 [Teambition](https://teambition.com) 产品的实际情况，样式文件被分为以下几层：
 
 - **Variables:** 全局变量
 - **Mixins & Functions & Utilities:** 各种全局工具与函数
