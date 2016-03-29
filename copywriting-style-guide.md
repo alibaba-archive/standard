@@ -86,6 +86,7 @@ Teambition 的 slogan 没有 make your work enjoyable，而是 Make Work Enjoyab
 
 ## References
 
+- [Teambition 文案风格手册](http://pastemarkdown.com/6bVeL) ~ [@bintong56 (Original Author)](https://github.com/bintong56)
 - [LeanCloud 文案风格指南](https://open.leancloud.cn/copywriting-style-guide.html)
 - [Chinese Copywriting Guidelines / 中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 - [Mapbox Writing copy](https://www.mapbox.com/base/copy)
