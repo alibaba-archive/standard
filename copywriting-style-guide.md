@@ -11,21 +11,21 @@
 
 **Teambition**
 
-公司名称是 Teambition，不是 Teambition Ltd.
+公司名称是「Teambition」，不是「Teambition Ltd.」。
 
-Teambition 的 T 要大写，前后如果有中文要就前后都有空格。
+「Teambition」的「T」要大写，前后如果有中文要就前后都有空格。
 
 如作为 URL 的一部分，应该使用全小写的「teambition」。
 
 **Make Work Enjoyable**
 
-Teambition 的 slogan 没有 make your work enjoyable，而是 Make Work Enjoyable
+Teambition 的 slogan 没有「make your work enjoyable」，而是「Make Work Enjoyable」。
 
 ## 通用文案
 
 #### 文案风格
 
-- 确保没有错别字，应特别注意“的”、“地”、“得”的用法。
+- 确保没有错别字，应特别注意「的」、「地」、「得」的用法。
 - 不使用流行语中故意的谐音别字，比如「墙裂」、「童鞋」等。
 - 文案应尽量简洁易懂。应删除不能完整表达意思的字、词、句，同时在不影响表达效果的前提下把文案长度减到最短。
 - 若为该文案为中英双语，则需要另外考虑翻译后的英文字符长度与中文字符长度差别不能过大。
