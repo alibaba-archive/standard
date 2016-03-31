@@ -11,15 +11,15 @@
 
 **Teambition**
 
-公司名称是 Teambition，不是 Teambition Ltd.
+公司名称是「Teambition」，不是「Teambition Ltd.」。
 
-Teambition 的 T 要大写，前后如果有中文要就前后都有空格。
+「Teambition」的「T」要大写，前后如果有中文要就前后都有空格。
 
 如作为 URL 的一部分，应该使用全小写的「teambition」。
 
 **Make Work Enjoyable**
 
-Teambition 的 slogan 没有 make your work enjoyable，而是 Make Work Enjoyable
+Teambition 的 slogan 没有「make your work enjoyable」，而是「Make Work Enjoyable」。
 
 ## 通用文案
 
