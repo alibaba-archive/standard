@@ -93,10 +93,10 @@ Stylus 无 Braces 语法下，不再是 [Free-form language](https://en.wikipedi
 - **Mixins & Functions & Utilities:** 各种全局工具与函数
 - **Bases:** 重置样式，基础样式
 - **Effects:** 特效 // 尽可能的少
-- **Generics:** 不含 JavaScript 交互的基础组建
-- **UIs:** 包含 JavaScript 交互的基础组建
+- **Generics:** 不含 JavaScript 交互的基础组件
+- **UXs:** 包含 JavaScript 交互的基础组件
 - **Themes:** 主题样式
-- **Components:** 包含逻辑的组建，可继承自基础组建
+- **Components:** 包含逻辑的组件，可继承自基础组件
 
 Tip: 不被 DOM 调用或者不生成规则的文件用下划线作为前缀
 
